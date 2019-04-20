@@ -20,8 +20,11 @@ and then pressing the Get Prediction button.
 
 For a more in depth training, please have a look at image-01.png in the repo or my project presentation (filename: Question Similarity Presentation.pptx )
 
+For a demo video, please watch this video on youtube: 
 
-For any confusion, please reach me at muhammadarshad0910@gmail.com
+https://www.youtube.com/watch?v=VOko_WvlclE
+
+If you still have any confusion, please reach me at muhammadarshad0910@gmail.com
 
 Thank you 
 
