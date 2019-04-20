@@ -1,0 +1,16 @@
+Depending on the use of this code, one can either use it to only predict
+the semantic & syntatic equivalence or one can start training their own word2vec model and 
+then train a classifier and then use it. For the former case, do the following steps.
+
+1- Run the GUI.py file. 
+2- A GUI will open up. Copy paste the two questions and select a classifier
+3- Press 'Get Prediction' button to get the predictions.
+4- Notice the results along with Metircs for each classifier prediction.
+
+
+For the latter case, I will be explaining the code a bit and their purpose in 
+the final presentation. 
+
+
+Thank you 
+Muhammad Arshad. 
